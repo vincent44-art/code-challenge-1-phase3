@@ -7,15 +7,29 @@ Welcome to the Coffee Shop App! This Python project simulates a simple coffee sh
 📦 Features
 
 
+
+
 ✅ Create and manage customers
+
 ☕ Define coffee types
+
 🧾 Create orders with validation
+
 📊 Get stats like:
+
 Average coffee price
+
 Number of orders per coffee
+
 Customers who ordered specific coffees
+
 Most frequent/loyal customer for a coffee
+
 🧱 Class Structure
+
+
 Coffee: Represents a type of coffee (e.g., Latte, Espresso)
+
 Customer: Represents a customer who can place orders
+
 Order: Represents a transaction with a coffee, customer, and price
