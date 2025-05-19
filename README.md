@@ -1,7 +1,12 @@
 ☕ Coffee Shop App
+
+
+
 Welcome to the Coffee Shop App! This Python project simulates a simple coffee shop where customers can place orders for different types of coffee and track information like total orders, average prices, and coffee aficionados.
 
 📦 Features
+
+
 ✅ Create and manage customers
 ☕ Define coffee types
 🧾 Create orders with validation
